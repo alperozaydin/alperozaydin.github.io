@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6898f38e-a360-4705-bf03-5d82f8006f7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media-queries.css" afterPath="$PROJECT_DIR$/css/media-queries.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,10 +24,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="350" column="39" lean-forward="true" selection-start-line="350" selection-start-column="39" selection-end-line="350" selection-end-column="39" />
+            <state relative-caret-position="306">
+              <caret line="276" column="22" lean-forward="true" selection-start-line="276" selection-start-column="22" selection-end-line="276" selection-end-column="22" />
               <folding>
-                <element signature="e#9111#9117#0" expanded="true" />
+                <element signature="e#9122#9128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -301,7 +300,7 @@
       <workItem from="1509395251170" duration="551000" />
       <workItem from="1511880343631" duration="15000" />
       <workItem from="1514553777349" duration="2566000" />
-      <workItem from="1514679478459" duration="5983000" />
+      <workItem from="1514679478459" duration="6125000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1485275736296</created>
@@ -314,7 +313,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21078000" />
+    <option name="totallyTimeSpent" value="21220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -327,7 +326,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -359,7 +358,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -406,7 +405,7 @@
         <state relative-caret-position="612">
           <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,7 +452,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -500,7 +499,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -542,7 +541,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -584,7 +583,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -626,7 +625,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -686,10 +685,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="350" column="39" lean-forward="true" selection-start-line="350" selection-start-column="39" selection-end-line="350" selection-end-column="39" />
+        <state relative-caret-position="306">
+          <caret line="276" column="22" lean-forward="true" selection-start-line="276" selection-start-column="22" selection-end-line="276" selection-end-column="22" />
           <folding>
-            <element signature="e#9111#9117#0" expanded="true" />
+            <element signature="e#9122#9128#0" expanded="true" />
           </folding>
         </state>
       </provider>
