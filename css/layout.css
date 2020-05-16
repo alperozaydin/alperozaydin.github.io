@@ -328,6 +328,12 @@ ul#nav li.current a { color: #F06000; }
     border-radius: 3px 0 0 3px;
 }
 
+.best {
+    width: 100%;
+    -moz-animation: good 2s ease;
+    -webkit-animation: good 2s ease;
+}
+
 .good {
     width: 85%;
     -moz-animation: good 2s ease;
